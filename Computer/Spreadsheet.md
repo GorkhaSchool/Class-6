@@ -1,5 +1,3 @@
-# Spreadsheet
-
 ## Answer these questions.
 
 ### 1. What is a spreadsheet?
